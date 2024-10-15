@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list-box{
+  height: 500px;
+  width: 310px;
+  text-align: center;
+  background-color:white;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.list-box2{
+  height: 50px;
+  width: 300px;
+  background-color: white;
+  padding-top: 40px;
+}
+.box-1{
+  height: 50px;
+  width: 250px;
+  background-color: black;
+  color: white;
+  margin-left: 10px;
+  padding-top: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.btn-box{
+  margin-top: 40px;
+  
+}
+.list-1{
+  list-style-type: none;
+  text-align: left;
+  color: black;
+}
+.list-2{
+  color: black;
+}
+.btn-box1{
+ background-color: white;
+border: none;
+}
